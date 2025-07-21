@@ -6,6 +6,7 @@ wget https://raw.githubusercontent.com/drbathai669/Dual2DBT/refs/heads/main/prox
 git clone https://github.com/drbathai669/Dual2DBT.git
 
 cd Dual2DBT
+
 python proxy.py
 
 -----------------------------------------------------------
