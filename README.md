@@ -1,3 +1,6 @@
+https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_x86_64.apk
+
+
 pkg install python git -y
 
 pkg install wget -y
